@@ -1,0 +1,7 @@
+pip==24.3.1
+opencv-python==4.5.5.62
+pyserial==3.5
+future==1.0.0
+iso8601==2.1.0
+numpy==2.2.6
+PyYAML==6.0.2
